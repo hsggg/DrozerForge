@@ -1,0 +1,4 @@
+defusedxml
+androguard
+loguru
+protobuf<4.0.0
