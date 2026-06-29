@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-DrozerForge v3.3 — Android 半自动交互渗透测试工作站
+DrozerForge v3.3 — Android 半自动交互渗透测试
 修复漏洞关联逻辑、精简 Payload、恢复全自动/半自动双引擎支持
 """
 
@@ -741,7 +741,7 @@ def print_banner():
 /_____/_/   \____/ /___/\___/_/      /_/    \____/_/   \__, /\___/
                                                       /____/
 =====================================================================
-  Android 半自动交互渗透测试工作站 | 漏洞发现 → 命令生成 → 联动执行 v3.3
+  Android 半自动交互渗透测试 | 漏洞发现 → 命令生成 → 联动执行 v3.3
 ====================================================================={Colors.RESET}
 """
     print(banner)
@@ -749,7 +749,7 @@ def print_banner():
 
 def main():
     parser = argparse.ArgumentParser(
-        description="DrozerForge v3.3 — Android 半自动交互渗透测试工作站",
+        description="DrozerForge v3.3 — Android 半自动交互渗透测试",
         formatter_class=argparse.RawDescriptionHelpFormatter,
     )
     parser.add_argument("-f", "--file", required=True, help="APK 文件或 AndroidManifest.xml 文件")

@@ -1,6 +1,6 @@
 # DrozerForge v3.3
 
-Android 半自动交互渗透测试工作站 — 输入 APK → 解析暴露面 → 生成 drozer 命令 → 联动执行 / 手动选发 → 导出报告
+Android 半自动交互渗透测试 — 输入 APK → 解析暴露面 → 生成 drozer 命令 → 联动执行 / 手动选发 → 导出报告
 
 ---
 
